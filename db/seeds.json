@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "David",
+      "password": "phones"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "description": "Universal Compatibility - Whether you use an iPhone, a Samsung or even a Xiaomi, the Keystyle premium adjustable phone stand is compatible with your device. Made to be sturdy and stable, our phone stand adjusts to several convenient angles. This means you will be able to watch videos in comfort while eating your breakfast. You can check recipes online while you are cooking. You can do video calls with ease with your friends and loved ones. You can even do streaming!",
+      "category": "phones",
+      "title": "iPhone Stand",
+      "image": "https://m.media-amazon.com/images/I/61ERvQ32fkL._AC_SL1500_.jpg",
+      "price": 22.99
+    },
+    {
+      "id": 2,
+      "description": "Take out this light foldable keyboard and impress your friends. You will never get caught short as the PMD Bluetooth keyboard works seamlessly with iOS, Android and Windows. The keyboard has a smart power-saving option so you can use your keyboard for up to 36 hours!",
+      "category": "ipads",
+      "title": "iPad Keyboard",
+      "image": "https://m.media-amazon.com/images/I/813Wzsgcb7L._AC_SL1500_.jpg",
+      "price": 45.99
+    },
+    {
+      "id": 3,
+      "description": "Ergonomic vertical mouse is meticulously crafted with a unique vertical shape that reduces wrist and forearm strain, delivering a comfortable and natural grip. It promotes a more ergonomic posture, alleviating discomfort and enhancing overall comfort.",
+      "title": "Ergonomic Mouse",
+      "category": "laptops",
+      "image": "https://s.alicdn.com/@sc04/kf/H6e020b6a473b44288ab3c802f2f2709dx.jpg",
+      "price": 25.77
+    },
+    {
+      "id": 4,
+      "description": "3 in 1 desk foldable fast wireless charger stand for iPhone, Apple Watch and Airpods. Wireless fast charging, compatible with all recent iPhone models, your Apple Watch and your Airpods TWS earphones. There is no faster – or more stylish way =- to charge your devices. Also suitable for most models of Android phone",
+      "title": "Charging Stand for iPhones, AirPods and Apple Watch",
+      "category": "phones",
+      "image": "https://s.alicdn.com/@sc04/kf/H83cbf71e946d46d8b9dfe1b1267b6d19k.jpg",
+      "price": 25.00
+    }
+  ]
+}
